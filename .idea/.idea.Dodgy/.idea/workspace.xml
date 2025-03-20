@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3363f5c-9910-4c19-b197-fdcf7f484926" name="Changes" comment="">
+    <list default="true" id="c3363f5c-9910-4c19-b197-fdcf7f484926" name="Changes" comment="fixed up the moving logic">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Dodgy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Dodgy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/DefaultVolumeProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/DefaultVolumeProfile.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Mover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Mover.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +22,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MrAbdul"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MrAbdul/DodgyLearning.git",
+    "accountId": "2ee94301-20a1-444e-9e21-e56db199d629"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/mrabd/Documents/learning Unity/GamedevtvCourse/Dodgy/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/mrabd/Documents/learning Unity/GamedevtvCourse/Dodgy/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/mrabd/Documents/learning Unity/GamedevtvCourse/Dodgy/Assets/Settings/DefaultVolumeProfile.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/mrabd/Documents/learning Unity/GamedevtvCourse/Dodgy/Assets/scripts/Mover.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/mrabd/Documents/learning Unity/GamedevtvCourse/Dodgy/Packages/manifest.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/mrabd/Documents/learning Unity/GamedevtvCourse/Dodgy/Packages/packages-lock.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -103,8 +120,17 @@
       <option name="presentableId" value="Default" />
       <updated>1742401941970</updated>
       <workItem from="1742401943761" duration="5000" />
-      <workItem from="1742401952974" duration="5126000" />
+      <workItem from="1742401952974" duration="8762000" />
     </task>
+    <task id="LOCAL-00001" summary="fixed up the moving logic">
+      <option name="closed" value="true" />
+      <created>1742408138581</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742408138581</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,5 +146,7 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="fixed up the moving logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed up the moving logic" />
   </component>
 </project>
